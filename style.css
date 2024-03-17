@@ -3,3 +3,26 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: center;
+}
+#featured-property{
+  text-align: center;
+}
+.lazima{
+  text-align: center;
+  padding-left: 100px;
+  padding-right: 100px;
+  
+}
+#lazima{
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.details{
+  column-count: 4;
+  background-color: red;
+  
+
+}
