@@ -11,8 +11,8 @@ header{
 }
 .lazima{
   text-align: center;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 200px;
+  padding-right: 200px;
   
 }
 #lazima{
@@ -23,6 +23,12 @@ header{
 .details{
   column-count: 4;
   background-color: red;
-  
+  padding: 50px;
 
+}
+.washerati{
+  padding: 10px;
+  justify-content: space-between;
+  margin: 5px;
+  
 }
